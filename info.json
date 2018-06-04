@@ -1,0 +1,19 @@
+{
+    "name": "Jack Grossman",
+    "website": "https://jackgrossman18.github.io/",
+    "linkedin": "https://www.linkedin.com/in/jackgrossman18",
+    "github": "jackgrossman18",
+    "email": "j.grossman18@gmail.com",
+    "resume": "https://jackgrossman18.github.io/jack-grossman-resume.pdf",
+    "proficient-technologies": [
+        "html",
+        "css",
+        "javascript",
+        "python",
+        "ArcMap",
+        "QGIS",
+        "ArcServer",
+        "JOSM"
+    ],
+    "other-skills": "surfing"
+}
